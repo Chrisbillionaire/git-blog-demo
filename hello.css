@@ -31,7 +31,11 @@ ul{
 }
 
 .btn:hover {
-    background-color: aqua;
+    background-color:peru;
     transition: all;
     transition-duration: 5s;
+}
+
+h1 {
+    background-color: peru;
 }
