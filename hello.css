@@ -1,4 +1,37 @@
 body{
+    margin: 0px;
+    padding: 0px;
     background-color: tomato;
     color: white;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+}
+
+.main{
+    text-align: center;
+    font-size: 50px;
+    animation: linear;
+    animation: ease-out;
+    animation-delay: 3s;
+    an
+
+}
+
+ul{
+    list-style: none;
+
+}
+
+.btn:hover {
+    background-color: aqua;
+    transition: all;
+    transition-duration: 5s;
 }
